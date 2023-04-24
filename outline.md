@@ -33,7 +33,7 @@ ALEKS artificial intelligence is developed using billions of data points from st
 
 #### Evaluation & Grading: Gradescope [~40 sec]
 
-`AIDAN TEXT HERE`
+As many instructors know, grading can be a tedious and arduous process. Gradescope is a game-changing AI grading tool that aims to remedy these issues. With a streamlined and user-friendly interface for instructors, 
 
 #### Call to Action/Conclusion [~30 sec]
 
