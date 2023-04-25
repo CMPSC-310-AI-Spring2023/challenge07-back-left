@@ -29,7 +29,9 @@ ALEKS artificial intelligence is developed using billions of data points from st
 
 #### Instruction & Tutoring: Carnegie Learning [~40 sec]
 
-`JACOB TEXT HERE`
+Carnegie Learning's MATHia with LiveLab is a math tutor powered by artificial intelligence. It creates a personalized learning experience for every student that uses it, ensuring that those who need help will receive it and those who are ready for more can be challenged. One of the biggest things this helps with is managing the overall learning in a classroom, which I'm sure every professor would appreciate assistance with. Through the use of LiveLab and MATHia, it gives the professor valuable data about different students' progress on assignments and current activity as well as advice on who might benefit the most from direct teacher assistance. A quote from a teacher that used LiveLab during its beta says, “Before LiveLab, I used to stand at the back of the room and try to look for when students were getting stuck. Now I know not only when they’re getting stuck, but why.”
+
+In 2019 alone, Carnegie Learning earned four separate awards for their progress in using AI for education, mainly for their developments of MATHia with LiveLab, and the Carnegie Mellon University has been a frontrunner of AI research for quite some time. Based on how well their work has been recieved so far, I think it's fair to say that this technology will only continue to improve, and MATHia is certainly something math professors should want to look into for their classrooms in the future.
 
 #### Evaluation & Grading: Gradescope [~40 sec]
 
