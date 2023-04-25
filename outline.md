@@ -35,7 +35,7 @@ ALEKS artificial intelligence is developed using billions of data points from st
 
 #### Evaluation & Grading: Gradescope [~40 sec]
 
-**AIDAN:** As many instructors know, grading can be a tedious and arduous process. Gradescope is a game-changing AI grading tool that aims to remedy these issues. With a streamlined and user-friendly interface for instructors, 
+**AIDAN:** As many instructors know, grading can be a tedious and arduous process. Gradescope is a game-changing AI grading tool that aims to remedy these issues. With a streamlined and user-friendly interface for instructors, the platform allows easy organization and grading of assignments. Instructors can view student statistics as well as communicate smoothly with students entirely through the tool; it even integrates with platforms like Canvas and Blackboard, making its use even more seamless. Gradescope is trained to recognize a range of different types of handwriting, symbols, and diagrams, so instructors can simply upload any assignment and it will be automatically graded by the AI with ease! Not only does it grade assignments, but it also provides detailed feedback, helping students understand their mistakes. With Gradescope, instructors can focus on what really matters, supplying their students with quality education.
 
 #### Call to Action/Conclusion [~30 sec]
 
