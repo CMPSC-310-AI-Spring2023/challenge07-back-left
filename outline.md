@@ -13,7 +13,7 @@ We are constructing a 3-minute video deep-diving into three established AI tools
 
 #### Introduction [~30 sec]
 
-**JEFF:** Are you a college-level educator? Do you, like so many of your peers, find yourself tossing and turning at night wondering what new cousin of ChatGPT is going to radically transform the landscape of your career? We get it. At times it can seem like artificial intelligence was purely designed to just create a new brand of plagiarism dilemmas that you're forced to deal with.
+**JEFF:** Are you a college-level educator? Do you, like so many of your peers, find yourself tossing and turning at night wondering what new cousin of ChatGPT is going to radically transform the landscape of your career? We get it. At times it can seem like artificial intelligence was purely designed to just create a new brand of plagiarism issues that you're forced to deal with.
 
 **JEFF:** Of course, AI isn't going away anytime soon. But we have good news on that front: it turns artificial intelligence can be harnessed to help make you a more impactful teacher in the classroom. Today we'll take a brief look at some AI-powered technologies that assist with nearly every aspect of an educator's workday, including lesson creation, hands-on tutoring and instruction, and even grading.
 
@@ -44,4 +44,8 @@ PROPOSED EDIT: ALEKS is an Artificial Intelligence-based learning and assessment
 
 #### Call to Action/Conclusion [~30 sec]
 
-**JEFF:** Riveting conclusion here
+**JEFF:** Providing that quality education is what's at the heart of these AI-powered technologies, all designed to aid educators in their mission to impart their students with a fulfilling and meaningful educational experience. Whether it's in lesson creation, one-on-one instruction, or evaluating and grading assignments, these and similar technologies can be leveraged to further stretch the bounds of that mission's realization.
+
+**JEFF:** Of course, none of these technologies alone can replace the impact made by a flesh-and-blood educator. However, these tools help outfit those real-world educators with possibilities for their teaching that had previously been unattainable; possibilities that we hope now seem all the more attainable to you!
+
+**JEFF:** So the next time you're up late fretting about the myriad ways ChatGPT seems to be undermining your career, try counting the ways in which AI could help you become the best educator you can be. We promise you'll fall asleep long before you reach the end of that list.
