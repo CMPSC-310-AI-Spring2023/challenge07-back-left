@@ -19,15 +19,12 @@ Of course, AI isn't going away anytime soon. But we have good news on that front
 
 #### Lesson Creation: ALEKS [~40 sec]
 
-**YANQIAO:** ALEKS is an Artificial Intelligence-based learning and assessment system. To customize students' learning experiences and improve their academic performances, ALEKS walks through the following steps:
+  **Yanqiao** ALEKS is an Artificial Intelligence-based learning and assessment system. It aims to customize students' learning experiences and improve their academic performances. To do so, ALEKS walks through the following steps:
 
 - determine the knowledge states of one specific course topic like Algebra
-- While different topics combine with each other to generate new problems, ALEKS checks the student's current knowledge to decide which combination of topics the student is ready to work on. To be ready to work on a new topic, the student has to learn something
-- While the size of topics growing, a network-like knowledge structure will be created.
-- assess student's knowledge on those states with learning space theory by survey. ALEKS then intelligently choose questions based on student's responses to all previous questions to determine what topic the student has mastered, hasn't mastered and what topic the student is ready to learn
-
-Putting side of all the cognitive science and mathematic side of ALEKS, machine learning is a vital factor driving ALEKS
-ALEKS artificial intelligence is developed using billions of data points from student interactions. Those data was accumulated over 21 years of successful learning by millions of students. Those data points power ALEKS the ability of mapping a student into a specific position in knowledge space network to enable ALEKS provides the most fittable topics for a student to learn next. Though there is no any information with the specific AI model ALEKS implements, it's ensured that it's an AI model working well with big data and network structure. Also, it's noteworthy that ALEKS dynamically updates with student's new performance and fine-tune its system to offer the student a new topic that fits her new knowledge level.  
+- ALEKS checks a student's current knowledge to decide which topic the student is ready to work on. To be ready to work on a new topic, the student has to learn topics that suit them provided by ALEKS
+- While the size of topics growing, a network-like knowledge structure will be created in a student's mind (more detail)
+- assess student's knowledge on those states by survey. ALEKS then intelligently choose questions based on student's responses to all previous questions to determine what topic the student has mastered, hasn't mastered and what topic the student is ready to learn next
 
 #### Instruction & Tutoring: Carnegie Learning [~40 sec]
 
